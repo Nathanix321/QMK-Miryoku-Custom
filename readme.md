@@ -1,3 +1,6 @@
+# NOTE
+This is my copy of the QMK firmware, with the myrioku layout (thank you manna-harbour!) added and modified for my purposes. You can follow the links in this README to the main QMK repo. 
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
